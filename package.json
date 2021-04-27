@@ -8,6 +8,7 @@
   },
   "scripts": {
     "test": "yarn workspaces run test",
+    "build": "yarn workspaces run build",
     "release": "multi-semantic-release"
   },
   "devDependencies": {
