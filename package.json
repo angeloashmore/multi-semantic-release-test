@@ -7,7 +7,7 @@
     ]
   },
   "scripts": {
-    "release": "multi-semantic-release --dry-run"
+    "release": "multi-semantic-release"
   },
   "devDependencies": {
     "@commitlint/cli": "^12.1.1",
