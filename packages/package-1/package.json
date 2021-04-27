@@ -4,5 +4,8 @@
   "repository": {
     "type": "git",
     "url": "git@github.com:angeloashmore/multi-semantic-release-test.git"
+  },
+  "publishConfig": {
+    "access": "public"
   }
 }
