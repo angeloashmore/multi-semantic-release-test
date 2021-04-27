@@ -15,6 +15,7 @@ jobs:
         with:
           node-version: "14"
       - uses: bahmutov/npm-install@v1
+      - run: yarn test
       - run: yarn release
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
