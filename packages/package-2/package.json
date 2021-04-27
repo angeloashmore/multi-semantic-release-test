@@ -1,6 +1,9 @@
 {
   "name": "@angeloashmore/multi-semantic-release-test-2",
   "version": "0.1.0",
+  "scripts": {
+    "test": "echo \"Simulating a test\" && exit 0"
+  },
   "repository": {
     "type": "git",
     "url": "git@github.com:angeloashmore/multi-semantic-release-test.git"
